@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Pompiere Regular';
+	src: url('Pompiere-Regular.eot');
+	src: url('Pompiere-Regular.eot?#iefix') format('embedded-opentype'),
+		url('Pompiere-Regular.woff') format('woff'),
+		url('Pompiere-Regular.ttf') format('truetype'),
+		url('Pompiere-Regular.svg') format('svg');
+}
